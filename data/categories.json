@@ -1,0 +1,31 @@
+{
+  "inappropriate_terms": [
+    "stupid",
+    "dumb",
+    "hate",
+    "idiot",
+    "loser",
+    "shut up",
+    "whatever",
+    "whatever",
+    "don't care",
+    "boring"
+  ],
+  "safe_terms": [
+    "hello",
+    "good morning",
+    "thank you",
+    "please help",
+    "great job",
+    "excellent work",
+    "well done",
+    "nice to meet you",
+    "have a good day",
+    "how are you",
+    "I understand",
+    "that makes sense",
+    "could you explain",
+    "interesting point",
+    "good question"
+  ]
+}
