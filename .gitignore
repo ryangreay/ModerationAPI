@@ -3,3 +3,4 @@ api_keys.db
 logs
 setup.txt
 models
+.env
