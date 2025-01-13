@@ -4,3 +4,5 @@ logs
 setup.txt
 models
 .env
+scripts/fix_csv.py
+data
