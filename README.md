@@ -1,6 +1,7 @@
 # K-12 Content Moderation API
 
 A specialized content moderation API built on top of BERT, specifically designed for K-12 education environments. This API helps identify and flag potentially harmful content, including modern internet slang and inappropriate language.
+The API is available at https://k12-moderation-api.fly.dev/docs
 
 ## Features
 
